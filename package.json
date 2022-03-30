@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/shilgam/rxjs-tour/issues"
   },
-  "homepage": "https://github.com/shilgam/rxjs-tour#readme"
+  "homepage": "https://github.com/shilgam/rxjs-tour#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
 }
