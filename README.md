@@ -7,7 +7,7 @@
 1.  Run app
 
         $ node
-        > const sum = require('./sum');
+        > const sum = require('./src/sum');
         > sum(1, 2)
         3
 
