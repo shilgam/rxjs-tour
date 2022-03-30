@@ -6,6 +6,9 @@
   "scripts": {
     "test": "jest"
   },
+  "jest": {
+    "testMatch": ["**/*.test.js"]
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/shilgam/rxjs-tour.git"
