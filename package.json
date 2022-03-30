@@ -18,5 +18,8 @@
   "homepage": "https://github.com/shilgam/rxjs-tour#readme",
   "devDependencies": {
     "jest": "^27.5.1"
+  },
+  "dependencies": {
+    "rxjs": "^7.5.5"
   }
 }
